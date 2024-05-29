@@ -1,0 +1,2 @@
+D:\Documents\cpp\Лабораторні ОП\№5(3)\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+D:\Documents\cpp\Лабораторні ОП\№5\№5(Task #1)\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
